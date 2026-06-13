@@ -16,6 +16,13 @@ calling, agent loop, and how to integrate multiple tools into an AI assistant.
 
 # Passing the first stage
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![Crates.io version](https://img.shields.io/crates/v/codecrafters-claude-code?style=flat-square&logo=rust&color=orange) ![Crates.io downloads](https://img.shields.io/crates/d/codecrafters-claude-code?style=flat-square&color=brightgreen) ![Crates.io license](https://img.shields.io/crates/l/codecrafters-claude-code?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.1.0-blue?style=flat-square)](https://crates.io/crates/codecrafters-claude-code)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 The entry point for your `claude-code` implementation is in `src/main.rs`. Study
 and uncomment the relevant code, and submit to pass the first stage:
 
